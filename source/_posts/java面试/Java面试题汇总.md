@@ -11,7 +11,7 @@ tags:
 
 ​		Java面试题汇总，分十九块个模块进行总结，点击标题可以查看答案：
 
-## [一、Java基础](/2019/03/13/java%E9%9D%A2%E8%AF%95/Java%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%80%EF%BC%89Java%E5%9F%BA%E7%A1%80/)
+## [一、Java基础](/2019/03/13/java面试/Java面试题（一）Java基础)
 
 1. JDK和JRE有什么区别？
 2. == 和 equals 的区别是什么？
@@ -31,3 +31,22 @@ tags:
 16. BIO、NIO、AIO 有什么区别？
 17. Files的常用方法都有哪些？
 
+## [二、容器](/2019/03/13/java面试/Java面试题汇总（二）容器)
+
+
+1. java 容器都有哪些？
+2. Collection 和 Collections 有什么区别？
+2. List、Set、Map 之间的区别是什么？
+4. HashMap 和 Hashtable 有什么区别？
+5. 如何决定使用 HashMap 还是 TreeMap？
+6. 说一下 HashMap 的实现原理？
+7. 说一下 HashSet 的实现原理？
+8. ArrayList 和 LinkedList 的区别是什么？
+9. 如何实现数组和 List 之间的转换？
+10. ArrayList 和 Vector 的区别是什么？
+11. Array 和 ArrayList 有何区别？
+12. 在 Queue 中 poll()和 remove()有什么区别？
+13. 哪些集合类是线程安全的？
+14. 迭代器 Iterator 是什么？
+15. Iterator 怎么使用？有什么特点？
+16. Iterator 和 ListIterator 有什么区别？
